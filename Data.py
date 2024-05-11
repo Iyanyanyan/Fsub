@@ -49,7 +49,7 @@ class Data:
 
 @{} adalah Bot Telegram untuk menyimpan Postingan atau File yang dapat Diakses melalui Link Khusus.
 
- • Creator: @{@iyyanyan}
+ • Creator: @{}
  • Framework: <a href='https://docs.pyrogram.org'>Pyrogram</a>
  • Source Code: <a href='https://github.com/shearlen/fsub'>fsub</a>
 
